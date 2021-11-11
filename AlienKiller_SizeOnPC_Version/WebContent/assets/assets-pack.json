@@ -1,0 +1,434 @@
+{
+    "level": [
+        {
+            "type": "image",
+            "key": "group",
+            "url": "assets/images/group.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "logo2",
+            "url": "assets/images/logo.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "story1",
+            "url": "assets/images/story1.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "story2",
+            "url": "assets/images/story2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "story3",
+            "url": "assets/images/story3.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "story_world",
+            "url": "assets/images/story_world.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "play",
+            "url": "assets/images/play.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "readytoplay",
+            "url": "assets/images/readytoplay.png",
+            "overwrite": false
+        },
+        {
+            "type": "tilemap",
+            "key": "map1",
+            "url": "assets/tilemap/map1.json",
+            "format": "TILED_JSON"
+        },
+        {
+            "type": "image",
+            "key": "logo(1)",
+            "url": "assets/images/logo(1).png",
+            "overwrite": false
+        },
+        {
+            "type": "atlas",
+            "key": "logo",
+            "textureURL": "assets/atlas/logo.png",
+            "atlasURL": "assets/atlas/logo.json",
+            "format": "TEXTURE_ATLAS_JSON_HASH"
+        },
+        {
+            "type": "image",
+            "key": "tree1",
+            "url": "assets/images/tree1.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "play_menu_1",
+            "url": "assets/images/play_menu_1.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "play_menu_2",
+            "url": "assets/images/play_menu_2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "story_menu_1",
+            "url": "assets/images/story_menu_1.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "story_menu_2",
+            "url": "assets/images/story_menu_2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "credit_menu_1",
+            "url": "assets/images/credit_menu_1.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "credit_menu_2",
+            "url": "assets/images/credit_menu_2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "logo_red",
+            "url": "assets/images/logo_red.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "logo_star",
+            "url": "assets/images/logo_star.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "foot",
+            "url": "assets/images/foot.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "head",
+            "url": "assets/images/head.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "moon",
+            "url": "assets/images/moon.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "button",
+            "url": "assets/images/button.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "shoot",
+            "url": "assets/images/shoot.png",
+            "overwrite": false
+        },
+        {
+            "type": "tilemap",
+            "key": "map_test3",
+            "url": "assets/tilemap/map_test3.json",
+            "format": "TILED_JSON"
+        },
+        {
+            "type": "atlas",
+            "key": "bullet",
+            "textureURL": "assets/atlas/bullet.png",
+            "atlasURL": "assets/atlas/bullet.json",
+            "format": "TEXTURE_ATLAS_JSON_HASH"
+        },
+        {
+            "type": "atlas",
+            "key": "monster",
+            "textureURL": "assets/atlas/monster.png",
+            "atlasURL": "assets/atlas/monster.json",
+            "format": "TEXTURE_ATLAS_JSON_HASH"
+        },
+        {
+            "type": "atlas",
+            "key": "BOB",
+            "textureURL": "assets/atlas/BOB.png",
+            "atlasURL": "assets/atlas/BOB.json",
+            "format": "TEXTURE_ATLAS_JSON_HASH"
+        },
+        {
+            "type": "image",
+            "key": "MonIdle",
+            "url": "assets/images/MonIdle.png",
+            "overwrite": false
+        },
+        {
+            "type": "tilemap",
+            "key": "map_test4",
+            "url": "assets/tilemap/map_test4.json",
+            "format": "TILED_JSON"
+        },
+        {
+            "type": "tilemap",
+            "key": "mapvi",
+            "url": "assets/tilemap/mapvi.json",
+            "format": "TILED_JSON"
+        },
+        {
+            "type": "image",
+            "key": "Tileset",
+            "url": "assets/tilemap/Tileset.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "t1",
+            "url": "assets/tilemap/tile_sheet2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "tile_sheet",
+            "url": "assets/images/tile_sheet.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "t2",
+            "url": "assets/tilemap/t2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "bg_2",
+            "url": "assets/images/bg_2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "bg1",
+            "url": "assets/images/bg1.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "bg2",
+            "url": "assets/images/bg2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "bg_credit",
+            "url": "assets/images/bg_credit.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "button_home",
+            "url": "assets/images/button_home.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "button_menu",
+            "url": "assets/images/button_menu.png",
+            "overwrite": false
+        },
+        {
+            "type": "tilemap",
+            "key": "map_test5",
+            "url": "assets/tilemap/map_test5.json",
+            "format": "TILED_JSON"
+        },
+        {
+            "type": "image",
+            "key": "Actordead(1)",
+            "url": "assets/images/Actordead(1).png",
+            "overwrite": false
+        },
+        {
+            "type": "spritesheet",
+            "key": "Flame",
+            "url": "assets/images/Flame.png",
+            "frameWidth": 35,
+            "frameHeight": 64,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "image",
+            "key": "t4",
+            "url": "assets/images/t4.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "heart",
+            "url": "assets/images/heart.png",
+            "overwrite": false
+        },
+        {
+            "type": "atlas",
+            "key": "coin",
+            "textureURL": "assets/atlas/coin.png",
+            "atlasURL": "assets/atlas/coin.json",
+            "format": "TEXTURE_ATLAS_JSON_HASH"
+        },
+        {
+            "type": "tilemap",
+            "key": "map_test6",
+            "url": "assets/tilemap/map_test6.json",
+            "format": "TILED_JSON"
+        },
+        {
+            "type": "audio",
+            "key": "boom",
+            "urls": ["assets/audio/boom.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "click",
+            "urls": ["assets/audio/click.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "click2",
+            "urls": ["assets/audio/click2.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "coin2",
+            "urls": ["assets/audio/coin2.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "dead",
+            "urls": ["assets/audio/dead.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "go",
+            "urls": ["assets/audio/go.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "music",
+            "urls": ["assets/audio/music.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "over",
+            "urls": ["assets/audio/over.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "shoot2",
+            "urls": ["assets/audio/shoot2.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "shoot3",
+            "urls": ["assets/audio/shoot3.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "start",
+            "urls": ["assets/audio/start.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "youwin",
+            "urls": ["assets/audio/youwin.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "image",
+            "key": "button_exit",
+            "url": "assets/images/button_exit.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "lose",
+            "url": "assets/images/lose.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "win",
+            "url": "assets/images/win.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "gameover",
+            "url": "assets/images/gameover.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "menu",
+            "url": "assets/images/menu.png",
+            "overwrite": false
+        },
+        {
+            "type": "audio",
+            "key": "lasore",
+            "urls": ["assets/audio/lasore.mp3"],
+            "autoDecode": true
+        }
+    ],
+    "start": [{
+        "type": "image",
+        "key": "tap-to-strat",
+        "url": "assets/images/tap-to-strat.png",
+        "overwrite": false
+    }],
+    "preload": [{
+        "type": "image",
+        "key": "loading",
+        "url": "assets/images/loading.png",
+        "overwrite": false
+    }],
+    "meta": {
+        "generated": "1480044726676",
+        "app": "Phaser Editor",
+        "url": "http://phasereditor.boniatillo.com",
+        "version": "1.0",
+        "copyright": "Arian Fornaris (c) 2015,2016"
+    }
+}

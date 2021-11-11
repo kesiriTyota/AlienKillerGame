@@ -1,0 +1,209 @@
+{
+  "frames": {
+    "Coin(1)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 54,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(10)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(2)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 54,
+        "y": 54,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(3)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 54,
+        "y": 2,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(4)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 106,
+        "y": 54,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(5)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 106,
+        "y": 2,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(6)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 158,
+        "y": 54,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(7)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 158,
+        "y": 2,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(8)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 210,
+        "y": 54,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "Coin(9)": {
+      "trimmed": false,
+      "rotated": false,
+      "frame": {
+        "x": 210,
+        "y": 2,
+        "w": 50,
+        "h": 50
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "coin.png"
+  }
+}

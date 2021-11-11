@@ -1,0 +1,89 @@
+{
+  "frames": {
+    "bullet(1)": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 45,
+        "y": 4,
+        "w": 38,
+        "h": 26
+      },
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 8,
+        "w": 38,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 40
+      }
+    },
+    "bullet(2)": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 123,
+        "y": 6,
+        "w": 33,
+        "h": 24
+      },
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 9,
+        "w": 33,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 40
+      }
+    },
+    "bullet(3)": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 85,
+        "y": 8,
+        "w": 36,
+        "h": 22
+      },
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 10,
+        "w": 36,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 40
+      }
+    },
+    "bullet(4)": {
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 41,
+        "h": 28
+      },
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 7,
+        "w": 41,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 70,
+        "h": 40
+      }
+    }
+  },
+  "meta": {
+    "app": "Phaser Editor",
+    "version": "1",
+    "image": "bullet.png"
+  }
+}
